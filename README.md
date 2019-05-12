@@ -1,15 +1,15 @@
 # Justice
 Mobile App that aims to reduce crime reporting time and keep users up to date with what is going on in their neighborhood 
 
-    ![image](https://user-images.githubusercontent.com/42480955/57582040-da5bfa00-7474-11e9-9db5-8d52e7262bf6.png)
+   ![image](https://user-images.githubusercontent.com/42480955/57582040-da5bfa00-7474-11e9-9db5-8d52e7262bf6.png)
 
-    ![image](https://user-images.githubusercontent.com/42480955/57582071-3161cf00-7475-11e9-9c2f-531cf2504d4f.png)
+   ![image](https://user-images.githubusercontent.com/42480955/57582071-3161cf00-7475-11e9-9c2f-531cf2504d4f.png)
 
-    ![image](https://user-images.githubusercontent.com/42480955/57582074-4179ae80-7475-11e9-8e99-d4fc1f30400e.png)
+   ![image](https://user-images.githubusercontent.com/42480955/57582074-4179ae80-7475-11e9-8e99-d4fc1f30400e.png)
 
-    ![image](https://user-images.githubusercontent.com/42480955/57582077-4c344380-7475-11e9-9512-2fbb97a76167.png)
+   ![image](https://user-images.githubusercontent.com/42480955/57582077-4c344380-7475-11e9-9512-2fbb97a76167.png)
 
-    ![image](https://user-images.githubusercontent.com/42480955/57582085-5a825f80-7475-11e9-8698-982ab5406065.png)
+   ![image](https://user-images.githubusercontent.com/42480955/57582085-5a825f80-7475-11e9-8698-982ab5406065.png)
 
 
 

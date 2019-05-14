@@ -36,7 +36,7 @@ Alternative:
 4. Run the App !
 
 # Note
-- There isnt a crime statistics API available to retrieve crime data (location, investigations status, etc.), therefore FourSquare is used to retreive points of interest within the users location which acts as 'Crime Locations' and crime data were hardcoded due to time constraints to mimic how the app should function given a proper Crime Statistics API.
+- There isnt a crime statistics API available to retrieve crime data (location, investigations status, etc.), therefore FourSquare is used to retreive points of interest within the users location which acts as 'Crime Locations' and crime information are hardcoded due to time constraints to mimic how the app should function given a proper Crime Statistics API.
   
 
 

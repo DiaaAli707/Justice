@@ -1,18 +1,17 @@
 # Justice
-Mobile App that aims to reduce crime reporting time and keep users up to date with what is going on in their neighborhood 
+Mobile App that aims to reduce crime reporting time and keep users up to date with what is going on in their neighborhood. App consists of 3 components: Main Page,  News and settings. Main page displays live user location and crime data within their location. News page contains latest news articles related to the users city.
 
    ![image](https://user-images.githubusercontent.com/42480955/57582040-da5bfa00-7474-11e9-9db5-8d52e7262bf6.png)
 
    ![image](https://user-images.githubusercontent.com/42480955/57582071-3161cf00-7475-11e9-9c2f-531cf2504d4f.png)
+   
+   ![image](https://user-images.githubusercontent.com/42480955/57582111-9b7a7400-7475-11e9-9a78-9dca698fdcf1.png)
 
    ![image](https://user-images.githubusercontent.com/42480955/57582074-4179ae80-7475-11e9-8e99-d4fc1f30400e.png)
 
    ![image](https://user-images.githubusercontent.com/42480955/57582077-4c344380-7475-11e9-9512-2fbb97a76167.png)
 
    ![image](https://user-images.githubusercontent.com/42480955/57582085-5a825f80-7475-11e9-8698-982ab5406065.png)
-
-
-
 
 
 # Installing and using Expo
@@ -35,6 +34,9 @@ Alternative:
   - components folder
 3. Snack will prompt you to install required modules, click install
 4. Run the App !
+
+# Note
+- There isnt a crime statistics API available to retrieve crime data (location, investigations status, etc.), therefore FourSquare is used to retreive points of interest within the users location which acts as 'Crime Locations' and crime data were hardcoded due to time constraints to mimic how the app should function given a proper Crime Statistics API.
   
 
 

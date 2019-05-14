@@ -1,5 +1,5 @@
 # Justice
-Mobile App that aims to reduce crime reporting time and keep users up to date with what is going on in their neighborhood. App consists of 3 components: Main Page,  News and settings. Main page displays live user location and crime data within their location. News page contains latest news articles related to the users city.
+Mobile App built using react native that aims to reduce crime reporting time and keep users up to date with what is going on in their neighborhood. App consists of 3 components: Main Page,  News and settings. Main page displays live user location and crime data within their location. News page contains latest news articles related to the users city.
 
    ![image](https://user-images.githubusercontent.com/42480955/57582040-da5bfa00-7474-11e9-9db5-8d52e7262bf6.png)
 

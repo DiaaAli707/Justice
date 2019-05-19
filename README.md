@@ -13,6 +13,10 @@ Mobile App built using react native that aims to reduce crime reporting time and
 
    ![image](https://user-images.githubusercontent.com/42480955/57582085-5a825f80-7475-11e9-8698-982ab5406065.png)
 
+# Developed Using:
+   - React Native
+   - FourSquare Api
+   - News-API
 
 # Installing and using Expo
 1. Follow this installation guide: https://docs.expo.io/versions/latest/introduction/installation/
